@@ -1,0 +1,13 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Parallel Programming with MPI for Python'
+theme = "learn"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[params]
+disableBreadcrumb = false
+disableNextPrev = false
+themeVariant = "green"
+disableLandingPageButton = true
