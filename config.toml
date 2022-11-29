@@ -1,4 +1,4 @@
-baseURL = 'https://pawsey-internships.github.io/parallel_programming_with_mpi_for_python'
+baseURL = 'https://pawsey-internships.github.io/parallel_programming_with_mpi_for_python/'
 languageCode = 'en-us'
 title = 'Parallel Programming with MPI for Python'
 theme = "learn"
