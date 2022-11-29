@@ -3,7 +3,7 @@ title: "John Conway's Game of Life"
 weight: 3
 ---
 
-![Animated GIF of the Game of Life]([/game_of_life.gif](game_of_life.gif))
+![Animated GIF of the Game of Life]((game_of_life.gif))
 
 ```python
 import numpy as np
