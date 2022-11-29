@@ -3,7 +3,7 @@ title: "Image Processing"
 weight: 2
 ---
 
-For this case-study we'll use [a subset of the Oxford-IIIT Pet dataset]([/images.zip](https://github.com/Pawsey-Internships/parallel_programming_with_mpi_for_python/blob/main/static/images.zip?raw=true)) [1].
+For this case-study we'll use [a subset of the Oxford-IIIT Pet dataset](/images.zip) [1].
 
 ```python
 from glob import glob
