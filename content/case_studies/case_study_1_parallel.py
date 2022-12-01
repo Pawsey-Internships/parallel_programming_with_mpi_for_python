@@ -34,4 +34,4 @@ rank = COMM.Get_rank()
 
 np.random.seed(rank)
 
-print(mc_pi(500000, COMM))
+print(mc_pi(1000000, COMM))

@@ -10,4 +10,4 @@ def mc_pi(N):
     return 4 * hits / N
 
 
-print(mc_pi(500000))
+print(mc_pi(1000000))
