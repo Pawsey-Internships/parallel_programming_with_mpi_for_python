@@ -3,7 +3,7 @@ title: "Image Processing"
 weight: 2
 ---
 
-A common task in machine learning is the pre-processing of large data sets. The below code resizes a folder of images and saves the resized images in a new directory. We'll process [a subset of the Oxford-IIIT Pet dataset](./../images.zip) [1].
+A common task in machine learning is the pre-processing of large data sets. The below code resizes a folder of images and saves the resized images in a new directory. We'll process [a subset of the Oxford-IIIT Pet dataset](https://github.com/Pawsey-Internships/parallel_programming_with_mpi_for_python/blob/main/content/case_studies/images.zip?raw=true) [1].
 
 ### Serial Approach
 
