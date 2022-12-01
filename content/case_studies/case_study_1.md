@@ -19,7 +19,7 @@ To approximate the integral with Monte Carlo integration, we draw random points 
 
 $$V \frac{\text{hits}}{N} \approx \pi$$
 
-### Serial
+### Serial Appraoch
 
 ```python
 {{% include "/content/case_studies/case_study_1_serial.py" %}}
@@ -27,7 +27,7 @@ $$V \frac{\text{hits}}{N} \approx \pi$$
 
 * **Average wall time:** 14.085s
 
-### MPI Parallel
+### Parallel Approach
 
 ```python
 {{% include "/content/case_studies/case_study_1_parallel.py" %}}
