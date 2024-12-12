@@ -7,26 +7,15 @@ pre: "<b>1. </b>"
 
 # 1. Setup for the Workshop.
 
-To follow along with the session, you'll need access to a computer with an MPI installation, Python 3 and, the python packages mpi4py, numpy, scipy, PIL and matplotlib. This could be through your allocation with Pawsey (Topaz, Setonix or Nimbus) or your own PC.
-
-## Topaz
-
-Build the singularity container `mpi4py_latest.sif`.
-
-```bash
-mkdir $MYSCRATCH/mpi_workshop
-cd $MYGROUP/mpi_workshop
-module load singularity
-singularity pull docker://dhna/mpi4py
-```
+To follow along with the session, you'll need access to a computer with an MPI installation, Python 3 and, the python packages mpi4py, numpy, scipy, PIL and matplotlib. This could be through your allocation with Pawsey or your own PC.
 
 ## Setonix
 
 ```bash
-module load python/3.9.15
-module load py-numpy/1.20.3
-module load py-mpi4py/3.1.2-py3.9.15
-module load py-scipy/1.7.1
+module load python/3.11.6
+module load py-numpy/1.26.1
+module load py-mpi4py/3.1.5-py3.11.6
+module load py-scipy/1.11.3
 ```
 
 ## MacOS 
